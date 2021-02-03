@@ -1,2 +1,2 @@
 # Neural Style Transfer
-Implementation of a music style transfer using DNN and GAN
+Implementation of a music style transfer tool using DNN and GAN
