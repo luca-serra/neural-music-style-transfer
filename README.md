@@ -11,7 +11,7 @@ This repository contains `.ipynb` files which are designed to be used inside [Go
 
 # Data
 
-The data necessary for this project can be found here and here TODO: mettre les liens vers les data
+The data necessary for this project were used in [this study](https://arxiv.org/pdf/1809.07575.pdf) and [this study](https://arxiv.org/pdf/1708.03535.pdf).
 
 More information can be found in the `models` folder README.
 
@@ -20,4 +20,5 @@ More information can be found in the `models` folder README.
 The results of our work are detailed in this paper TODO: lien vers le papier
 
 A few generated songs of our models can be heard [here](https://soundcloud.com/user-367037269) on Soundcloud
+A little quiz (Google Form) can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfkeH5jZ16TkFFxTYAGkCwFxho8-IIBFKtkLmycTc01ty-I9A/viewform): can you find if these musics are from humain or AI?
 
