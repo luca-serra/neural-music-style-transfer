@@ -20,5 +20,6 @@ More information can be found in the `models` folder README.
 The results of our work are detailed in this paper TODO: lien vers le papier
 
 A few generated songs of our models can be heard [here](https://soundcloud.com/user-367037269) on Soundcloud
+
 A little quiz (Google Form) can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfkeH5jZ16TkFFxTYAGkCwFxho8-IIBFKtkLmycTc01ty-I9A/viewform): can you find if these musics are from humain or AI?
 
