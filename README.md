@@ -17,7 +17,7 @@ More information can be found in the `models` folder README.
 
 # Results
 
-The results of our work are detailed in this paper.
+The results of our work are detailed in [this paper](https://github.com/luca-serra/neural-music-style-transfer/blob/master/Neural_music_style_transfer.pdf).
 
 A few generated songs of our models can be heard [here](https://soundcloud.com/user-367037269) on Soundcloud.
 
